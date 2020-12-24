@@ -1,0 +1,10 @@
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\bin\Debug\CarPriceAndTotal.exe.config
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\bin\Debug\CarPriceAndTotal.exe
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\bin\Debug\CarPriceAndTotal.pdb
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.csprojAssemblyReference.cache
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.Properties.Resources.resources
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.csproj.GenerateResource.cache
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.csproj.CoreCompileInputs.cache
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.exe
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.pdb
+C:\Users\toni_\source\repos\CarPriceAndTotal\CarPriceAndTotal\obj\Debug\CarPriceAndTotal.CarPriceUpdate.resources
